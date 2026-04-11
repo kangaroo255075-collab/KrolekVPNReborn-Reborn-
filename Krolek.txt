@@ -6,15 +6,214 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=2384899200
 
 vless://622ecb27-f3c0-1f40-b463-7ce28eed844f@0.00.00.0:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%E2%80%94%E2%80%94+%D0%9A%D1%80%D0%BE%D0%BB%D1%8D%D0%BA%21+%D0%A1%D0%BF%D0%B0%D1%81%D0%B8+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+%F0%9F%8C%90%E2%80%94%E2%80%94
-vless://19512632-cc5d-4bae-9717-2fa4b1f0d7f7@212.233.76.156:8443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&allowinsecure=0&type=grpc&serviceName=&sni=max.ru&sid=0123456789abcdef#%5BKrolekVPNReborn%5D+Russia+%F0%9F%87%B7%F0%9F%87%BA+%7C+LTE
-vless://27d0c642-693c-4070-83b4-0e9803ba71b3@144.31.94.4:42428?security=reality&encryption=none&echfq=none&pbk=ccICtTNR2BXmdCzazGcyci16c7O1kJIv6ugDM6xY2XY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=24adcebe#%5BKrolekVPNReborn%5D+Germany+%F0%9F%87%A9%F0%9F%87%AA+%7C+LTE
-vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@5.188.143.135:443?security=reality&encryption=none&echfq=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=428ef87fd47a3a32#%5BKrolekVPNReborn%5D+Poland+%F0%9F%87%B5%F0%9F%87%B1+%7C+LTE
-
-
-vless://50e5dbb7-be12-4964-b921-d03f1e2f25b7@0.00.000.:443?security=reality&encryption=none&pbk=tEduQabQ5YS0EPkXDIRMAuns068ZfzBlCrry4JS2MVs&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=68d6237c#%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@yt-noads.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%5BKrolekVPNReborn%5D+Russia+%F0%9F%87%B7%F0%9F%87%BA+%7C+VPN+%7C+YouTube
-vless://aa0a6bb4-a6e3-439d-a9a4-ea63475187a1@g-2.union.monster:8443?security=reality&encryption=none&echfq=none&pbk=NJom3Q_CAY8nDdveyfHBNYIZEeEC-lBAAvenNiRaBDs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mirror.vpnsz.net&sid=b9#%5BKrolekVPNReborn%5D+Germany+%F0%9F%87%A9%F0%9F%87%AA+%7C+VPN
-vless://aa0a6bb4-a6e3-439d-a9a4-ea63475187a1@45.138.16.45:8443?security=reality&encryption=none&echfq=none&pbk=NJom3Q_CAY8nDdveyfHBNYIZEeEC-lBAAvenNiRaBDs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mirror.vpnsz.net&sid=6ba85179e30d4fc2#%5BKrolekVPNReborn%5D+Poland+%F0%9F%87%B5%F0%9F%87%B1+%7C+VPN
-vless://2518dfad-3a97-4040-bec5-b01db31fb5e9@video635.ruvps.pro:443?security=reality&encryption=none&echfq=none&pbk=pDR1m8Gn9XkIn06rHgCMM8Tb6qCzwJHAHTkq85Feknw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=video635.ruvps.pro#%5BKrolekVPNReborn%5D+North+Macedonia+%F0%9F%87%B2%F0%9F%87%B0+%7C+VPN
-vless://2518dfad-3a97-4040-bec5-b01db31fb5e9@node632.vertiex.ru:443?security=reality&encryption=none&pbk=R1qCYmmaLhlFnFfRD_ehbyfJ45fgCaMiy-kd6Mx-UXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=node632.vertiex.ru#%5BKrolekVPNReborn%5D+North+Macedonia+%F0%9F%87%B2%F0%9F%87%B0+%7C+VPN
-vless://2518dfad-3a97-4040-bec5-b01db31fb5e9@node632.vertiex.ru:443?security=reality&encryption=none&pbk=R1qCYmmaLhlFnFfRD_ehbyfJ45fgCaMiy-kd6Mx-UXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=node632.vertiex.ru#%5BKrolekVPNReborn%5D+North+Macedonia+%F0%9F%87%B2%F0%9F%87%B0+%7C+VPN
+{
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "1.0.0.1",
+      "77.88.8.8",
+      "77.88.8.1"
+    ],
+    "queryStrategy": "UseIP"
+  },
+  "routing": {
+    "rules": [
+      {
+        "type": "field",
+        "network": "tcp,udp",
+        "balancerTag": "proxy-balancer"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "proxy-balancer",
+        "selector": [
+          "proxy"
+        ],
+        "strategy": {
+          "type": "leastLoad",
+          "settings": {
+            "costs": [
+              {
+                "match": "proxy",
+                "value": 1000,
+                "regexp": false
+              },
+              {
+                "match": "proxy-2",
+                "value": 2000,
+                "regexp": false
+              },
+              {
+                "match": "proxy-3",
+                "value": 20000,
+                "regexp": false
+              }
+            ],
+            "maxRTT": "5s",
+            "expected": 1,
+            "baselines": [
+              "2s"
+            ],
+            "tolerance": 0.01
+          }
+        },
+        "fallbackTag": "proxy"
+      }
+    ],
+    "domainMatcher": "hybrid",
+    "domainStrategy": "IPIfNonMatch"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true,
+        "auth": "noauth"
+      },
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "settings": {
+        "allowTransparent": false
+      },
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "84.201.169.55",
+            "port": 443,
+            "users": [
+              {
+                "id": "4e78dd4f-1d8f-01ae-b43b-e2c662c4f956",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {},
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "ads.x5.ru",
+          "show": false,
+          "publicKey": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "proxy-2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "158.160.244.203",
+            "port": 443,
+            "users": [
+              {
+                "id": "4e78dd4f-1d8f-01ae-b43b-e2c662c4f956",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {},
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "api-maps.yandex.ru",
+          "show": false,
+          "publicKey": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "proxy-3",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "31.184.254.172",
+            "port": 443,
+            "users": [
+              {
+                "id": "4e78dd4f-1d8f-01ae-b43b-e2c662c4f956",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {},
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "s3-ru-central-1.rucdn777.com",
+          "show": false,
+          "publicKey": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "burstObservatory": {
+    "pingConfig": {
+      "timeout": "4s",
+      "interval": "2m",
+      "sampling": 3,
+      "destination": "https://connectivitycheck.gstatic.com/generate_204",
+      "connectivity": ""
+    },
+    "subjectSelector": [
+      "proxy"
+    ]
+  },
+  "remarks": "🇩🇪 Германия, Франкфурт"
+}
